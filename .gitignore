@@ -1,0 +1,5 @@
+*.png
+*.xls
+*.xlsx
+superstore.csv
+.DS_Store
